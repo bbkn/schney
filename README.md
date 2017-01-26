@@ -1,2 +1,4 @@
-# schney
-## Stichpunktesammlung von Seminar vom 20-22.1
+Schney
+======
+Stichpunktesammlung von Seminar vom 20-22.1
+--------------------------------------------

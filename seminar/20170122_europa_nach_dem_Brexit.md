@@ -1,7 +1,9 @@
 Europa nach dem Brexit{-}
 ======================
 
-Seminar zur politischen Bildung in der [Frankeakademie Schloss Schney](https://www.franken-akademie.de/)
+Stichpunktesammlung zum Seminar zur politischen Bildung in der [Frankeakademie Schloss Schney](https://www.franken-akademie.de/)
+
+
 
 
 Brexit - Gerangel um CETA - TTIP vor dem Aus. Welche Folgen hat der neue Protektionismus für die Wirtschaftsmacht EU?

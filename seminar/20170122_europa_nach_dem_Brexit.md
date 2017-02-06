@@ -1,13 +1,67 @@
-Europa nach dem Brexit{-}
-======================
+Seminar zur politischen Bildung in der [Frankeakademie Schloss Schney](https://www.franken-akademie.de/)
 
-Stichpunktesammlung zum Seminar zur politischen Bildung in der [Frankeakademie Schloss Schney](https://www.franken-akademie.de/)
+DISCLAIMER Dies ist nur eine grobe Zusammenfassung und Sammlung von Stichpunkten. Das Seminnar war eine kontinuierliche Diskussion in der ständig neue Themen angesprochen wurden. Daher fehlen in der ZUsammenfassung etwas die Zusammenhänge. 
+Es eignet sich aber durchaus als eine Einführung in die Thematik von Brexit und Europa. Ausserdem fehlt der Freitag, da ich erst am Abend in Schney angekommen bin. Das Kapitel Brexit entstammt dem Internet.
 
+~Kimi~
 
 
 
 Brexit - Gerangel um CETA - TTIP vor dem Aus. Welche Folgen hat der neue Protektionismus für die Wirtschaftsmacht EU?
 =====================================================================================================================
+
+Brexit
+-------
+
++ Atlantikbrücke
+<https://www.theguardian.com/commentisfree/2017/feb/02/corporate-dark-money-power-atlantic-lobbyists-brexit>
+
++ Artikel 50 der Lissabonner Verträge
+
+Ermöglicht den Ausstritt aus der EU. Vorher gab es keine Ausstiegsklausel.
+
++ Kampagne im Vorfeld
+
++ Wort entstand in Anlehnung an den Grexit und beschreibt den Austritt von Großbritannien aus der EU.
+
++ Referendum 23.6.2017
+
+Ergebnis 51.9% zu 48.1% für einen Brexit, Wahlbeteiligung 72.2%
+
++ Parlament 
+
++ Schottland - Ausstieg
++ Irland
++ Theresa May
++ Brexit-Beführworter
++ GB 2. größter Nettozahler in der EU, 3. größter Staat(Einwohner)
+
+Folgen des Brexit
+-----------------
+
++ EU-Exporte nach GB
+
++ Waren und Dienstleistungen
+
++ Weltwirtschaft ist kaum von Brexit betroffen. Es gibt andere Prombleme. 
+
+
+Rezession in Brasilien, Russland. Schwaches Wirtschaftswachstum in China. <https://www.heise.de/tp/features/Brexit-War-da-was-3287658.html>
+
++ Landwirtschaft
+ 
+Department of ruaral affairs
+<http://www.independent.co.uk/voices/brexit-referendum-alternative-facts-brexit-bill-white-paper-european-union-a7558886.html>
+
++ NHS
+
+Privatisierung des Gesundheitssystems 
+
++ Verbraucherschutz
+
+
+
+
 
 [Video Geld und Zinsen](https://www.youtube.com/watch?v=m0Hwxs-Cpd8)
 --------------------------------------------------------------------

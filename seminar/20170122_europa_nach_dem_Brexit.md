@@ -18,7 +18,20 @@ Brexit
 
 + Artikel 50 der Lissabonner Verträge
 
-  Ermöglicht den Austritt aus der EU. Vorher gab es keine Ausstiegsklausel.
+	+ Ermöglicht den Austritt aus der EU. Vorher gab es keine Ausstiegsklausel.
+	+ Klausel in den Schlussbestimmungen auf S.46 [EUV](http://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=OJ:C:2010:083:FULL&from=DE)
+
+		(1) Jeder Mitgliedstaat kann im Einklang mit seinen verfassungsrechtlichen Vorschriften beschließen, aus der Union auszutreten.
+
+		(2) Ein Mitgliedstaat, der auszutreten beschließt, teilt dem Europäischen Rat seine Absicht mit. Auf der Grundlage der Leitlinien des Europäischen Rates hadelt die Union mit diesem Staat ein Abkommen über die Einzelheiten des Austritts aus und schließt da Abkommen, wobei der Rahmen für die Einzelheiten des Austritts aus und schließt das Abdkommen, wobei der Rahmen für die künftigen Beziehungen dieses Staates zur Union berücksichtig wird. Das Abkommen wird nach Artikel 218 Absatz 3 des Vertrages über die Arbeitsweise der Europäischen Union ausgehandelt. Es wird vom Rat im Namen der Union geschlisssen; der Rat beschließt mit qualifizierter Mehrheit nach Zustimmung der Europäischen Parlaments.
+
+		(3)	Die Verträge finden auf den betroffen Staat ab dem Tag des Austrittsabkommens oder andernfalls zwei Jahre nach der in Absatz 2 genannten Mitteilungen keine Anwendung mehr, es sei denn, der Europäische Tat beschließt im Einvernehmen mit dem betroffen Mitgliedstaat einstimmig, diese Frist zu verlängern.
+
+		(4)	Für die Zewcke der Absätze 2 und 3 nimmt Das Mitglied des Europäischen Rae und des Rates, das den austretenden Mitgliedstaat vertritt, weder an den diesen Mitgliedstaat betreffenden Beratungen noch an der entsprechenden Beschlussfassung des Europäischen Rates oder des Rates teil.<br>Die Mehrheit bestimmt sich nach Artikel 238 Absatz 3 Buchstabe b des Vertrages über die Arbeitsweise der Europäischen Union.
+
+		(5)	Ein Staat, der aus der Untion ausgetreten ist und erneut Mitglied werden möchte, muss dies nach dem Verfahren des Artikels 49 beatragen.
+
+
 
 + Kampagne im Vorfeld
 + Wort entstand in Anlehnung an den Grexit und beschreibt den Austritt von Großbritannien aus der EU.

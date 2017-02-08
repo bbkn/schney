@@ -1,9 +1,9 @@
 Seminar zur politischen Bildung in der [Frankeakademie Schloss Schney](https://www.franken-akademie.de/)
 
-DISCLAIMER Dies ist nur eine grobe Zusammenfassung und Sammlung von Stichpunkten. Das Seminnar war eine kontinuierliche Diskussion in der ständig neue Themen angesprochen wurden. Daher fehlen in der ZUsammenfassung etwas die Zusammenhänge. 
+DISCLAIMER Dies ist nur eine grobe Zusammenfassung und Sammlung von Stichpunkten. Das Seminnar war eine kontinuierliche Diskussion in der ständig neue Themen angesprochen wurden. Daher fehlen in der ZUsammenfassung etwas die Zusammenhänge.
 Es eignet sich aber durchaus als eine Einführung in die Thematik von Brexit und Europa. Ausserdem fehlt der Freitag, da ich erst am Abend in Schney angekommen bin. Das Kapitel Brexit entstammt dem Internet.
 
-~Kimi~
+_Kimi_
 
 
 
@@ -18,18 +18,14 @@ Brexit
 
 + Artikel 50 der Lissabonner Verträge
 
-Ermöglicht den Ausstritt aus der EU. Vorher gab es keine Ausstiegsklausel.
+  Ermöglicht den Austritt aus der EU. Vorher gab es keine Ausstiegsklausel.
 
 + Kampagne im Vorfeld
-
 + Wort entstand in Anlehnung an den Grexit und beschreibt den Austritt von Großbritannien aus der EU.
-
 + Referendum 23.6.2017
 
-Ergebnis 51.9% zu 48.1% für einen Brexit, Wahlbeteiligung 72.2%
-
-+ Parlament 
-
+  Ergebnis 51.9% zu 48.1% für einen Brexit, Wahlbeteiligung 72.2%
++ Parlament
 + Schottland - Ausstieg
 + Irland
 + Theresa May
@@ -43,19 +39,19 @@ Folgen des Brexit
 
 + Waren und Dienstleistungen
 
-+ Weltwirtschaft ist kaum von Brexit betroffen. Es gibt andere Prombleme. 
++ Weltwirtschaft ist kaum von Brexit betroffen. Es gibt andere Prombleme.
 
 
 Rezession in Brasilien, Russland. Schwaches Wirtschaftswachstum in China. <https://www.heise.de/tp/features/Brexit-War-da-was-3287658.html>
 
 + Landwirtschaft
- 
+
 Department of ruaral affairs
 <http://www.independent.co.uk/voices/brexit-referendum-alternative-facts-brexit-bill-white-paper-european-union-a7558886.html>
 
 + NHS
 
-Privatisierung des Gesundheitssystems 
+Privatisierung des Gesundheitssystems
 
 + Verbraucherschutz
 
@@ -120,16 +116,16 @@ Preisstabilität
 
 + Vergleich mit Lotto
 
-+ Mit genug Kapital kann der reale Handerl beeinflusst werden. => Preisbestimmung. 
++ Mit genug Kapital kann der reale Handerl beeinflusst werden. => Preisbestimmung.
 
-+ Es wird mit allen Produkten spekuliert. 
++ Es wird mit allen Produkten spekuliert.
 
 > Bsp. amerikanische Pensionfonds beeinflussen Reispreise in Indien => Hunger.
 > Bsp. 60 Mio t realer US-Weizen stehen 400 Mio t spekuliertem Weizen gegenüber. (Aus dem Futuers Volumen berechnet)
 
 + Leerverkäufe
 
-> Akten werden geliehen und müssen zu einem vereinbarten Zeitpunkt wieder zurückgegeben werden. Dazwischen wird mit ihnen gehandelt. Wette auf den Aktienkurs. Reale Werte haben sich nicht geändert, aber es werden Gewinne oder Verluste generiert.
+  Akten werden geliehen und müssen zu einem vereinbarten Zeitpunkt wieder zurückgegeben werden. Dazwischen wird mit ihnen gehandelt. Wette auf den Aktienkurs. Reale Werte haben sich nicht geändert, aber es werden Gewinne oder Verluste generiert.
 
 + Regulierung der Finanzmärkte funktioniert nicht wenn national sondern nur wenn global durchgeführt. Sonst wandern die Akteure von regulierten auf andere Märkte ab. z.B. Verbot von Leerverkäufen.
 + Haben Regierungen überhaupt ein Interesse an Regulierungen. Die Finanztransaktionssteuer ist noch nicht eingeführt.
@@ -155,7 +151,7 @@ Wirtschaftskriege
 + Griechenland
 
 > Angriff auf Demokratie
-> Verkauf von Athener Flughafen. Einem rentablen Unternehmen, das dem Staat Geldeinnahmen beschehrte. 
+> Verkauf von Athener Flughafen. Einem rentablen Unternehmen, das dem Staat Geldeinnahmen beschehrte.
 
 + Ukraine
 
@@ -175,7 +171,7 @@ Freihandelsabkommen
 + TTIP, Handelsabkommen zwischen USA und Europa
 + Themen von TTIP-Handelsabkommen sind Dienstleistungen, Daseinsvorsorge, öffentliche Ausschreibungen, Urheber-,Verwergungsrechte, Verbraucherschutz(Chlorhühnchen <-> Hormonfleisch), Gentechnik.
 
-> Es wurde streng in Produktklassen eingeteilt, die Produkte die da nicht rein passen bleiben aussen vor. 
+> Es wurde streng in Produktklassen eingeteilt, die Produkte die da nicht rein passen bleiben aussen vor.
 
 + Interessen der Vertragspartner Autohandel in den USA <-> Agrarhandel in Europa
 
@@ -195,7 +191,7 @@ Freihandelsabkommen
 
 + Schiedsgerichte
 
-> Entgangene Gewinne sind bei TTIP einklagbar. 
+> Entgangene Gewinne sind bei TTIP einklagbar.
 > Garantie für Investitionen, z.B mögliches Frackingverbot
 > Investorenschutz z.B. vor Enteignung
 > Schiedsgerichte sind neutrale, unabhänginge Instanzen. Staat ist nicht involviert.
@@ -212,7 +208,7 @@ Freihandelsabkommen
 
 + [Sendung "Die Anstalt" vom 24.5.2016 Beispiel Rumänien](https://youtu.be/bTmcWqA61T8)
 
-+ Verfahren der Schiedsgerichte funktioniert. 
++ Verfahren der Schiedsgerichte funktioniert.
 
 > Wer soll die Rechter druchsetzen? Rechte des Stärkeren?
 > Ebene des Völerrechts
@@ -225,7 +221,7 @@ Freihandelsabkommen
 
 + Kündigung von hat Konsequenzen -> Investorenschutz
 
-Europa am Scheideweg - Nationalismus/Populismus 
+Europa am Scheideweg - Nationalismus/Populismus
 ================================================
 Neuer Referent Roland Baumann, Medienberater an Gymnasien
 
@@ -248,7 +244,7 @@ Was ist Europa?
 
 + Ukraine
 
-+ Russland hat andere Probleme 
++ Russland hat andere Probleme
 
 + Balkan zieht es nach Europa
 

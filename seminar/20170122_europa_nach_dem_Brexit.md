@@ -16,7 +16,7 @@ Brexit
 + Atlantikbrücke
 <https://www.theguardian.com/commentisfree/2017/feb/02/corporate-dark-money-power-atlantic-lobbyists-brexit>
 
-+ Artikel 50 der Lissabonner Verträge
++ Artikel 50 EUV (Lissabonner Verträge)
 
 	+ Ermöglicht den Austritt aus der EU. Vorher gab es keine Ausstiegsklausel.
 	+ Klausel in den Schlussbestimmungen auf S.46 [EUV](http://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=OJ:C:2010:083:FULL&from=DE)

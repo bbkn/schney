@@ -48,6 +48,7 @@ Brexit
 + Referendum 23.6.2017
 
   Ergebnis 51.9% zu 48.1% für einen Brexit, Wahlbeteiligung 72.2%
+
 + Parlament
 + Schottland - Ausstieg
 + Irland
@@ -58,6 +59,7 @@ Brexit
 	+ Michael Grove, Justizminister
 	
 + GB 2. größter Nettozahler in der EU, 3. größter Staat(Einwohner)
+
 
 Folgen des Brexit
 -----------------
@@ -70,7 +72,6 @@ Folgen des Brexit
 + Waren und Dienstleistungen
 
 + Weltwirtschaft ist kaum von Brexit betroffen. Es gibt andere Prombleme.
-
 
 Rezession in Brasilien, Russland. Schwaches Wirtschaftswachstum in China. <https://www.heise.de/tp/features/Brexit-War-da-was-3287658.html>
 
@@ -86,6 +87,9 @@ Privatisierung des Gesundheitssystems
 + Verbraucherschutz
 
 
++ Aussenminister von GB auf der Münchner Sicherheitskonferenz, Podium am Freitag Abend 17.2.17
+
+"Liberation from the EU" - s.h Einwand ukrainischer Politikerin
 
 Finanzsystem
 ============
@@ -94,7 +98,7 @@ Finanzsystem
 --------------------------------------------------------------------
 + Banken, Geldsystem, Zinsen, Zinsdynamik
 + Vertrauen in Geld
-+ Goldstandart
++ Goldstandard
 + Geld als Buchungssatz, Verbindlichkeiten mir eigener Schuld zu Begründen
 + Bilanzverlängerung von Banken
 + Staat muss bei Insolvenz einer Bank solvent sein um die 100.000 Euro garantieren zu können.

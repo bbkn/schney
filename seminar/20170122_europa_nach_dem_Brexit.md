@@ -34,6 +34,16 @@ Brexit
 
 
 + Kampagne im Vorfeld
+	+ [Sammlung Anzeigenkampagnen](http://www.wuv.de/marketing/brexit_or_not_kampagnen_zum_eu_referendum)
+	+ Mord an Jo Cox
+	+ Rückgewinnung der demokratischen Kontrolle
+	+ Kontrolle über Währung
+	+ nicht gewählte ferne Bürokratie
+	+ Migration
+	- Gefahr der Verarmung der Haushalte
+	- Abwertung des Britischen Pfundes
+	+ <http://www.faz.net/aktuell/wirtschaft/brexit-kampagne-die-befreiung-europas-von-der-eu-14189746.html>
+
 + Wort entstand in Anlehnung an den Grexit und beschreibt den Austritt von Großbritannien aus der EU.
 + Referendum 23.6.2017
 
@@ -43,11 +53,18 @@ Brexit
 + Irland
 + Theresa May
 + Brexit-Beführworter
+	+ Nigel Farage, UKIP-Führer
+	+ Boris Johnson, ehem. Bürgermeister London
+	+ Michael Grove, Justizminister
+	
 + GB 2. größter Nettozahler in der EU, 3. größter Staat(Einwohner)
 
 Folgen des Brexit
 -----------------
 
++ Arbeitnehmerfreizügigkeit
++ Zoll
++ Zugang zum EU-Binnenmarkt
 + EU-Exporte nach GB
 
 + Waren und Dienstleistungen
@@ -70,7 +87,8 @@ Privatisierung des Gesundheitssystems
 
 
 
-
+Finanzsystem
+============
 
 [Video Geld und Zinsen](https://www.youtube.com/watch?v=m0Hwxs-Cpd8)
 --------------------------------------------------------------------
